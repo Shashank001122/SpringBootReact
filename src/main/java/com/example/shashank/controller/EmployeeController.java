@@ -20,7 +20,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-@CrossOrigin(origins = "http://springreactshashank.s3-website-us-east-1.amazonaws.com")
+@CrossOrigin(origins = "http://springreactshashank1.s3-website-us-east-1.amazonaws.com")
 @RestController
 @RequestMapping("/api/v1")
 public class EmployeeController {
